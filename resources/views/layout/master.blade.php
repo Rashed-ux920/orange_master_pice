@@ -41,12 +41,12 @@
     <hr>
 
 
+    @yield('contant')
 
 
 
 
-
-
+    <hr>
     {{-- start footer  --}}
 
     <footer>

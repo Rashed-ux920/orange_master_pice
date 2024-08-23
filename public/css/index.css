@@ -11,6 +11,9 @@ a{
 *{
     font-family: "Poppins", sans-serif;
 }
+ul{
+    list-style: none;
+}
 
 
 header{
@@ -36,6 +39,9 @@ nav a{
     /* border: 1px solid #000; */
     border-radius: var(--border-r-all);
 }
-.search{
-    
+footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
 }
